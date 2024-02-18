@@ -1,2 +1,2 @@
 # miniStockDash
-Mini stock dashboard powered using Streamlit made for a Stevens CS club workshop.
+Mini stock dashboard made with Streamlit for a Stevens CS club workshop.
