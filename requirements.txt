@@ -1,0 +1,4 @@
+pandas==2.0.2
+streamlit==1.32.0
+streamlit_autorefresh==1.0.1
+yfinance==0.2.37
